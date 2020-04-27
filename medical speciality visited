@@ -13,6 +13,7 @@ def max_visited_speciality(patient_medical_speciality_list,medical_speciality):
             counte=counte+1
         else:
             continue
+            
     if(countp>counte):
         if(counte>counto):
             speciality='Pediatrics'
